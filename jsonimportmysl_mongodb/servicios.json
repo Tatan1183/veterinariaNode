@@ -1,0 +1,38 @@
+[
+	{
+		"id" : 1,
+		"nombre" : "Consulta General",
+		"descripcion" : "Revisión general de la mascota",
+		"precio" : 55.00
+	},
+	{
+		"id" : 2,
+		"nombre" : "Vacunación",
+		"descripcion" : "Aplicación de vacunas",
+		"precio" : 35.00
+	},
+	{
+		"id" : 3,
+		"nombre" : "Desparasitación",
+		"descripcion" : "Tratamiento contra parásitos internos y externos",
+		"precio" : 25.00
+	},
+	{
+		"id" : 4,
+		"nombre" : "Cirugía Menor",
+		"descripcion" : "Procedimientos quirúrgicos menores",
+		"precio" : 150.00
+	},
+	{
+		"id" : 5,
+		"nombre" : "Baño y Peluquería",
+		"descripcion" : "Servicio de higiene y estética",
+		"precio" : 40.50
+	},
+	{
+		"id" : 6,
+		"nombre" : "Cirugia Oncologica",
+		"descripcion" : "Procedimientos de cirugia oncologica",
+		"precio" : 500.00
+	}
+]

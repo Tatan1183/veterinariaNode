@@ -1,0 +1,29 @@
+[
+	{
+		"id" : 1,
+		"nombre" : "Ana maria",
+		"apellido" : "Gómez",
+		"especialidad" : "Cirugía general",
+		"email" : "ana@veterinaria.com",
+		"password" : "$2a$10$nKfO46GSOX9gmx7gl0AE4e3ZeSdy9Epd0meJtoTIt8Q1X5XQVsmyG",
+		"imagen" : "ana.jpeg"
+	},
+	{
+		"id" : 2,
+		"nombre" : "andres david",
+		"apellido" : "bayona",
+		"especialidad" : "medicina general",
+		"email" : "andres@veterinaria.com",
+		"password" : "$2a$10$xrIiNvVCTr1RW5DlZBZ4deAZe1S93ngSiGHohQzaYAgXhKpOO/S5C",
+		"imagen" : "andres.jpg"
+	},
+	{
+		"id" : 3,
+		"nombre" : "Monica ",
+		"apellido" : "Tobon silva",
+		"especialidad" : "Oncologia Clinica",
+		"email" : "monica@veterinaria.com",
+		"password" : "$2a$10$h9AHCg32.4joBm2lpCY7cejkQS8V1SnzfuyxZY9XoYI0JPE46bWRa",
+		"imagen" : "monica.avif"
+	}
+]

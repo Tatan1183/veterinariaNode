@@ -1,0 +1,47 @@
+[
+	{
+		"id" : 1,
+		"cliente_id" : 1,
+		"nombre" : "sacha",
+		"especie" : "Perro",
+		"raza" : "Beagle",
+		"fecha_nacimiento" : "2012-05-12",
+		"imagen" : "Beagle.png"
+	},
+	{
+		"id" : 2,
+		"cliente_id" : 2,
+		"nombre" : "Danyer",
+		"especie" : "Gato",
+		"raza" : "tuxedo",
+		"fecha_nacimiento" : "2018-01-01",
+		"imagen" : "gato Tuxedo.png"
+	},
+	{
+		"id" : 3,
+		"cliente_id" : 4,
+		"nombre" : "Princesa",
+		"especie" : "Perro",
+		"raza" : "westie",
+		"fecha_nacimiento" : "2015-07-08",
+		"imagen" : "Westie.png"
+	},
+	{
+		"id" : 4,
+		"cliente_id" : 5,
+		"nombre" : "garras",
+		"especie" : "Gato",
+		"raza" : "Siberiano",
+		"fecha_nacimiento" : "2012-01-19",
+		"imagen" : "Siberiano.png"
+	},
+	{
+		"id" : 5,
+		"cliente_id" : 5,
+		"nombre" : "frin",
+		"especie" : "Perro",
+		"raza" : "Labrador Retriever",
+		"fecha_nacimiento" : "2014-01-10",
+		"imagen" : "Labrador Retriever blanco.png"
+	}
+]
