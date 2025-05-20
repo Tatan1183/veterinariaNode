@@ -1,7 +1,15 @@
-//function expression
 import app from "./app.js";
-const main = () =>{
-    app.listen(app.get("port"));
-    console.log(`The company Super server web is running on port ${app.get("port")}`);
+import { connectDB } from "./db/database.js";
+
+async function main() {
+    try {
+        await connectDB(); // Conectar a la base de datos
+        app.listen(app.get("port"), () => {
+            console.log(`API VetSys Pro corriendo en puerto ${app.get("port")}`);
+            console.log(`Accede en http://localhost:${app.get("port")}`);
+        });
+    } catch (error) {
+        console.error("No se pudo iniciar el servidor:", error);
+    }
 }
 main();
