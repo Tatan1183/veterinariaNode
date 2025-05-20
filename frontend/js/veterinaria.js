@@ -1,1 +1,1 @@
-const API_URL = "http://localhost:5001/api"; // El puerto que configuraste en .env
+import { obtainVeterinarios, obtainClientes, obtainMascotas, obtainServicios,  obtainCitas /* ...otras... */ } from '../apiConnection/consumeApi.js';   
