@@ -1,1 +1,0 @@
-import { obtainVeterinarios, obtainClientes, obtainMascotas, obtainServicios,  obtainCitas /* ...otras... */ } from '../apiConnection/consumeApi.js';   
